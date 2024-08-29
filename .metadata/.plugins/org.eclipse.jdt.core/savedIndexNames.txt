@@ -1,5 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Pichau\OneDrive\Documentos\Projetos Eclipse\Aula Processos Java\.metadata\.plugins\org.eclipse.jdt.core
-2398663365.index
-1865797976.index
-1626788841.index
-4194271827.index
